@@ -62,7 +62,7 @@ end
 Notify("Thanks for using my script", "")
 _G.AutoFarm = true
 if not _G.NpcName then
-    _G.NpcName = "Evil Saiyan"
+    _G.NpcName = "Evil Saiyan" "Evil Majins"
 end
  
 local function Pugno()
